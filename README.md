@@ -11,8 +11,8 @@ Digital Skola API Automation using Supertest
 
 ### Mochawesome Report
 
-1. Generated report shall be restore under folder `report`
-2. Open report that has name `pass_[date]-mochawesome-report.html`
+1. Generated report shall be generated under folder `report`
+2. Open report that has name `pass_[date]-testSuite-report.html`
 
 ### Sample report
 
